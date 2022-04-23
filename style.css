@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+#ketik{
+    text-align: center;
+    justify-content: center;
+    padding: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite
+}
