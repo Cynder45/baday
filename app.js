@@ -1,5 +1,5 @@
 var i= 0
-var ketik = "Bad day, Open VSCode, Look at the code, Your day is getting worse"
+var ketik = "Bad day doesn't mean you have tp be sad,Go open  your VSCode, Look at the code,Then your day is getting worse"
 
 function diketik(){
     if( i < ketik.length){
